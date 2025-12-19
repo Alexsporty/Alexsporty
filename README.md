@@ -29,5 +29,4 @@ Currently preparing for frontend interviews and building practical projects with
 
 ## 📫 Contact
 
-- GitHub: [https://github.com/YOUR_USERNAME](https://github.com/Alexsporty)  
-- Telegram: [@your_handle](https://t.me/your_handle)
+- GitHub: [https://github.com/Alexsporty](https://github.com/Alexsporty)  
