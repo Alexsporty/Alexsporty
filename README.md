@@ -1,4 +1,5 @@
 # Hi, I'm Alexander 👋
+![Banner](https://link-to-your-banner.png)
 
 Frontend developer focused on **React and TypeScript**.  
 I care about **UI state, predictable logic, and clean component structure**.
