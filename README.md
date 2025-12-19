@@ -1,5 +1,7 @@
 # Hi, I'm Alexander 👋
-![Banner](https://link-to-your-banner.png)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+
 
 Frontend developer focused on **React and TypeScript**.  
 I care about **UI state, predictable logic, and clean component structure**.
