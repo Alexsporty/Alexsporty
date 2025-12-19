@@ -22,8 +22,8 @@ Currently preparing for frontend interviews and building practical projects with
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexsporty&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsporty&layout=compact&theme=dark)
 
 ---
 
