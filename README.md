@@ -22,20 +22,45 @@ Currently preparing for frontend interviews and building practical projects with
 
 ## 📌 Featured Projects
 
+### 🔹 Игры Разума (Brain Games)
+Консольное приложение с 5 математическими играми: Even, Calculator, GCD, Progression, Prime.  
+Пользователь отвечает на вопросы, в случае ошибки игра завершается.  
+Запуск через терминал, команда `make <game>`.
+
+**Repository:** [frontend-project-44](https://github.com/Alexsporty/frontend-project-44)  
+**Demos:**  
+- [Even](https://asciinema.org/a/659153)  
+- [Calculator](https://asciinema.org/a/659540)  
+- [GCD](https://asciinema.org/a/659559)  
+- [Progression](https://asciinema.org/a/659577)  
+- [Prime](https://asciinema.org/a/659867)
+
+---
+
+### 🔹 Difference Calculator
+Программа для сравнения двух структур данных (JSON, YAML) и генерации отчёта в форматах: stylish, plain, json.  
+Используется для отслеживания изменений конфигурации или тестов.
+
+**Repository:** [frontend-project-46](https://github.com/Alexsporty/frontend-project-46)  
+**Demo:** [asciinema](https://asciinema.org/a/685063)
+
+---
+
 ### 🔹 RSS Aggregator
-![RSS Screenshot](https://link-to-screenshot.png)  
-React + TypeScript + i18next  
-[Repository](https://github.com/YOUR_USERNAME/rss-aggregator) • [Live Demo](https://link-to-demo)
+Веб-приложение для добавления RSS-лент, отслеживания новых постов и чтения содержимого.  
+Особенности: валидатор ссылок, автообновление постов, мультиязычная поддержка (i18next), обработка ошибок и дубликатов.
 
-### 🔹 Slack-like Chat (Learning Project)
-![Chat Screenshot](https://link-to-screenshot.png)  
-React + TypeScript + Formik  
-[Repository](https://github.com/YOUR_USERNAME/slack-clone) • [Live Demo](https://link-to-demo)
+**Repository:** [frontend-project-11](https://github.com/Alexsporty/frontend-project-11)  
+**Demo:** локальный запуск через `make start`
 
-### 🔹 UI State Practice
-![UI Screenshot](https://link-to-screenshot.png)  
-React + TypeScript  
-[Repository](https://github.com/YOUR_USERNAME/ui-state-practice)
+---
+
+### 🔹 Hexlet Chat
+Веб-приложение для общения в реальном времени с регистрацией, авторизацией, созданием каналов и отправкой сообщений.  
+Использует React 18, Redux Toolkit, Socket.IO и i18next.
+
+**Repository:** [frontend-project-12](https://github.com/Alexsporty/frontend-project-12)  
+**Demo:** [Frontend Render](https://frontend-project-12-ntwt.onrender.com/login)
 
 ---
 
