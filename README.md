@@ -1,6 +1,3 @@
-<!-- Optional Banner -->
-![Banner](https://link-to-your-banner.png)
-
 # Hi, I'm Alexander 👋
 
 Frontend developer focused on **React and TypeScript**.  
