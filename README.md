@@ -9,7 +9,9 @@ Currently preparing for frontend interviews and building practical projects with
 
 ## 🛠 Tech Stack
 
-- **Frontend:** React, TypeScript, JavaScript (ES6+)
+- **Frontend:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - **UI & Styling:** HTML, CSS, modern layout techniques
 - **State & Forms:** controlled inputs, UI state, async flows
 - **Tooling:** Vite, npm, ESLint
