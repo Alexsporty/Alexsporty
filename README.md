@@ -30,7 +30,7 @@ Support for different input formats: yaml, json
 Generating a report in the form of plain text, stylish and json
 
 
-- **RSS Aggregator** — JavaScript (ES6+), Vite, i18next, Axios, Yup, Bootstrap, DOMParser
+- **RSS Aggregator** — JavaScript (ES6+), Vite, i18next, Axios, Yup, Bootstrap, DOMParser 
 RSS Aggregator is a web application that allows the user to add RSS feeds, track new posts and read their contents. The app automatically checks for new posts every 5 seconds.
 
 - **Hexlet Chat** — React 18, Redux Toolkit, React Router v7, Axios, React-Toastify, i18next (локаль ru), Bootstrap 5, Socket.IO, Playwright (E2E-тесты)
