@@ -17,6 +17,26 @@ Currently preparing for frontend interviews and building practical projects with
 
 ---
 
+## 🚀 Projects
+
+- **MIND GAMES** — JS, git  
+  A console application of 5 games with mathematical problems, the computer randomly asks a question, the user answers!
+  In case of an incorrect answer, the game is over!
+
+- **Difference Calculator** — JS, git  
+  Difference Calculator is a program that determines the difference between two data structures. This is a popular task, for which there are many online services, for example http://www.jsondiff.com /. A similar mechanism is used when outputting tests or when automatically tracking changes in configuration files.
+Utility Features:
+Support for different input formats: yaml, json
+Generating a report in the form of plain text, stylish and json
+
+
+- **RSS Aggregator** — JavaScript (ES6+), Vite, i18next, Axios, Yup, Bootstrap, DOMParser
+RSS Aggregator is a web application that allows the user to add RSS feeds, track new posts and read their contents. The app automatically checks for new posts every 5 seconds.
+
+- **Hexlet Chat** — React 18, Redux Toolkit, React Router v7, Axios, React-Toastify, i18next (локаль ru), Bootstrap 5, Socket.IO, Playwright (E2E-тесты)
+  Hexlet Chat is a web—based application for real-time communication. Users can register, log in, create channels, send messages, and manage channels.
+---
+
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexsporty&show_icons=true&theme=dark)
@@ -27,3 +47,5 @@ Currently preparing for frontend interviews and building practical projects with
 ## 📫 Contact
 
 - GitHub: [https://github.com/Alexsporty](https://github.com/Alexsporty)  
+- Email: kuptsov.sasha@mail.com  
+- Telegram: @alexsporty1
